@@ -1,0 +1,21 @@
+ecommerce-dashboard/
+├── backend/
+│   ├── src/
+│   │   └── main/
+│   │       └── java/
+│   │           └── com/dashboard/
+│   │               ├── Application.java
+│   │               ├── controller/
+│   │               │   └── OrderController.java
+│   │               ├── model/
+│   │               │   └── Order.java
+│   │               └── repository/
+│   │                   └── OrderRepository.java
+│   └── resources/
+│       ├── application.xml
+│       └── schema.sql
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── dashboard.js
+├── README.md
