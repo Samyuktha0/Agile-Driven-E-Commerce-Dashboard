@@ -1,0 +1,10 @@
+<configuration>
+    <server>
+        <port>8080</port>
+    </server>
+    <database>
+        <url>jdbc:h2:mem:testdb</url>
+        <username>sa</username>
+        <password></password>
+    </database>
+</configuration>
